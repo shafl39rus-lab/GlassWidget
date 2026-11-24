@@ -1,0 +1,11 @@
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <string name="widget_description">Календарь, погода, шаги, заряд и баланс</string>
+    <string name="transparency_value">Прозрачность фона · %1$d%%</string>
+    <string name="card_calendar">Календарь</string>
+    <string name="card_weather">Погода</string>
+    <string name="card_meters">Шаги и заряд</string>
+    <string name="card_balance">Баланс Билайн</string>
+</resources>

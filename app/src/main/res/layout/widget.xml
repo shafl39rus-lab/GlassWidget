@@ -1,0 +1,6 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/widget_root" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageView android:id="@+id/calendar" android:contentDescription="@string/card_calendar" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="32" android:scaleType="fitXY" android:importantForAccessibility="yes"/>
+    <ImageView android:id="@+id/weather" android:contentDescription="@string/card_weather" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="40" android:scaleType="fitXY" android:importantForAccessibility="yes"/>
+    <ImageView android:id="@+id/meters" android:contentDescription="@string/card_meters" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="17" android:scaleType="fitXY" android:importantForAccessibility="yes"/>
+    <ImageView android:id="@+id/balance" android:contentDescription="@string/card_balance" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="11" android:scaleType="fitXY" android:importantForAccessibility="yes"/>
+</LinearLayout>
